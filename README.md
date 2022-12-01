@@ -3,19 +3,19 @@
 
 
 ## Оглавление
-1. [Описание проекта](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Описание-проекта)
-2. [Какой кейс решаем?](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Maria-27A/game/blob/main/skillfactory/PROJECT_1.Resume_analysis_from_HeadHunter/README.md#Этапы-работы-над-проектом)
-5. [Результат](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Результат)
-6. [Выводы](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Выводы)
+1. [Описание проекта](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Описание-проекта)
+2. [Какой кейс решаем?](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Этапы-работы-над-проектом)
+5. [Результат](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Результат)
+6. [Выводы](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Выводы)
 
 
 ### Описание проекта
 На основе датасета резюме с сайта поиска вакансий hh.ru, необходимо подготовить первичные данные для построения модели, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. 
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Оглавление)
 
 
 ### Основная проблема проекта?
@@ -38,7 +38,7 @@
 Учимся корректно писать код на Python для анализа и преобразовывать исходные данные, практикуем методы очистки данных, навыки по представлению проекта на GitHub
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#к оглавлению]
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#к оглавлению]
 
 
 ### Краткая информация о данных
@@ -49,7 +49,7 @@
 -  ExchangeRates.csv - курсы валют
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -63,18 +63,18 @@
 - Загрузка проекта на GitHub 
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Оглавление)
 
 
 ### Результат
 Проект c "Анализ резюме из HeadHunter " представлен в репозитории на GitHub
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Оглавление)
 
 
 ### Выводы
 В процессе выполнения проекта первоначальные данные были проанализированы, преобразованы, проведен разведывательный анализ данных с последующей визуализацией результатов с целью выявления взаимосвязей между признаками, данные были очищены от пропусков и дубликатов. Таким образом первоначальный датасет подготовлен для дальнейшего использования при построении требуемой модели. 
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Оглавление)
