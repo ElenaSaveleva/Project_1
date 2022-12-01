@@ -38,7 +38,7 @@
 Учимся корректно писать код на Python для анализа и преобразовывать исходные данные, практикуем методы очистки данных, навыки по представлению проекта на GitHub
 
 
-:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#оглавление]
+:arrow_up:[к оглавлению](https://github.com/ElenaSaveleva/Project_1/edit/main/README.md#к оглавлению]
 
 
 ### Краткая информация о данных
