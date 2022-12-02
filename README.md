@@ -1,6 +1,6 @@
 # Проект 1. Анализ резюме из HeadHunter
   (ссылка на проект https://colab.research.google.com/drive/1xwfnXUaP8w2dc-riTp5c_DDAJN0eKe_w?usp=sharing)
-
+  (ссылка на датасет https://drive.google.com/file/d/17ymUc_BW7Op-Xy1wfycFswszwE2-OQ0z/view?usp=sharing)
 
 ## Оглавление
 1. [Описание проекта](https://github.com/ElenaSaveleva/Project_1/blob/main/README.md#Описание-проекта)
