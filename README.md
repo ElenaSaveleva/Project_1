@@ -1,4 +1,4 @@
-# Проект 1. Анализ резюме из HeadHunter
+# Проект 2. Анализ резюме из HeadHunter
   (ссылка на проект https://colab.research.google.com/drive/1NDi6Vr-GJehaRQvsjuZMIZbIHEDqgP2L?usp=sharing
 
 ## Оглавление
